@@ -2,7 +2,7 @@
 
 I'm a software engineer at NoWhere (◔◡◔)
 
-- 🔭 I’m currently working on (ง︡'-'︠)ง
+- 🔭 I’m currently working on (ง︡'-'︠)ง [Note Touch](https://github.com/magician20/note_touch)
 - 🌱 I’m currently learning [Flutter](https://flutter.dev/), [Dart](https://dart.dev/), [NestJS](https://nestjs.com/), [TypeScript](https://www.typescriptlang.org/)
 - 🎶 I’m interested about [Rust](https://www.rust-lang.org//) & AI
 - 💣 Ask me about 🤔

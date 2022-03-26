@@ -6,6 +6,6 @@ I'm a software engineer at NoWhere (◔◡◔)
 - 🌱 I’m currently learning [Flutter](https://flutter.dev/), [Dart](https://dart.dev/), [NestJS](https://nestjs.com/), [TypeScript](https://www.typescriptlang.org/)
 - 🎶 I’m interested about [Flutter](https://flutter.dev/),[Rust](https://www.rust-lang.org//) & AI
 - 💣 Ask me about 🤔
-- 📫 How to reach me: ...👉 (͠◉_◉᷅ )
+- 📫 How to reach me: ...👉 [(͠◉_◉᷅ )](https://www.linkedin.com/in/abdelrhaman-mohammed-728299b5/)
 
 
